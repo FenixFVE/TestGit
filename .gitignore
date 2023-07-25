@@ -1,0 +1,14 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# NUnit test output
+**/TestResults/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+
+# Visual Studio Code settings
+.vscode/
